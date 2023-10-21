@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"fr.sandro642.github.SkymEconomyAPI","l":"EconomyAPI"}]
