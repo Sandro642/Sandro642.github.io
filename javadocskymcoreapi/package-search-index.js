@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fr.sandro642.github"},{"l":"fr.sandro642.github.EA"}];updateSearchResults();

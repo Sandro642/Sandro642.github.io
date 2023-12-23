@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.sandro642.github","l":"SkymCoreAPI.EA"},{"p":"fr.sandro642.github.EA","l":"EAClass"},{"p":"fr.sandro642.github","l":"SkymCoreAPI"}];updateSearchResults();
